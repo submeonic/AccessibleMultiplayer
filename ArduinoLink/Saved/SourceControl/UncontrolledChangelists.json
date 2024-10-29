@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal_Projects/ArduinoLink/Content/BP_SerialCom_v4_UE510.uasset",
+				"D:/Unreal_Projects/ArduinoLink/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/chase/Documents/Unreal Projects/ArduinoLink/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/chase/Documents/Unreal Projects/ArduinoLink/Content/BP_SerialCom_v4_UE510.uasset",
+				"C:/Users/chase/Documents/Unreal Projects/ArduinoLink/Content/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/chase/Documents/Unreal Projects/ArduinoLink/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/chase/Documents/Unreal Projects/ArduinoLink/Content/BP_ThirdPersonCharactertest.uasset",
+				"C:/Users/chase/Documents/Unreal Projects/ArduinoLink/Content/REF/BP_ThirdPersonCharactertest.uasset",
+				"C:/Users/chase/Documents/Unreal Projects/ArduinoLink/Content/REF/BP_SerialCom_v4_UE5101.uasset",
+				"C:/Users/chase/Documents/Unreal Projects/ArduinoLink/Content/REF/BP_SerialCom_v4_UE510.uasset",
+				"C:/Users/chase/Documents/Unreal Projects/ArduinoLink/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/EV/9AYMANTRSPIFJLN4Z4R5FM.uasset",
+				"C:/Users/chase/Documents/Unreal Projects/ArduinoLink/Content/ThirdPerson/Input/Actions/IA_Jump.uasset"
+			]
+		}
+	]
+}
