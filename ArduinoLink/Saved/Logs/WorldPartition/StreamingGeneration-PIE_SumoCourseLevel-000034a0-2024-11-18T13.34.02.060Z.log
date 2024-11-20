@@ -1,0 +1,66 @@
+[+] Containers:
+ |- [+] Container: /Game/SumoCourseLevel
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0E1EFB1747633703AAB399BCC975020E BaseClass:/Game/BP_BallController.BP_BallController_C NativeClass:/Script/Engine.Actor Name:BP_BallController_C_UAID_2CF05D8D5BC8923002_1685631880 Label:BP_BallController SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=671.829 Y=-128.171 Z=0.000), Max=(X=928.171 Y=128.171 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Players FolderGuid:51C5103C48D330EF67CE8FA6097E2D87
+ |   |   |- Guid:5D0471394D03FFCC6153648DF6D45900 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_2CF05D8D5BC89C3002_1171362661 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:86C5F0CC4C522A4C3EC893873EA7A16D BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_2CF05D8D5BC8943002_1209229236 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=3849.000), Max=(X=0.000 Y=0.000 Z=3849.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Players FolderGuid:51C5103C48D330EF67CE8FA6097E2D87
+ |   |   |- Guid:B28453E1461D3E7F52FBD8B3DC33E736 BaseClass:/Game/BP_XboxBallController.BP_XboxBallController_C NativeClass:/Script/Engine.Actor Name:BP_XboxBallController_C_UAID_2CF05D8D5BC8983002_1685465948 Label:BP_XboxBallController SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-900.000 Y=-100.000 Z=0.000), Max=(X=-700.000 Y=100.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Players FolderGuid:51C5103C48D330EF67CE8FA6097E2D87
+ |   |   |- Guid:B3F161804F8F80322B3E25A4E1B8A8AC BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:C148C1AD4504188DD410FE9202635652 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:Cylinder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1149.999 Y=-1249.999 Z=-50.000), Max=(X=1350.000 Y=1250.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C783FBBD4B38AAE6D6BA55A8DB02092E BaseClass:/Game/InputControl.InputControl_C NativeClass:/Script/Engine.Actor Name:InputControl_C_UAID_2CF05D8D5BC8963002_2118746590 Label:InputControl SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-220.000 Z=20.000), Max=(X=0.000 Y=270.000 Z=72.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Players FolderGuid:51C5103C48D330EF67CE8FA6097E2D87
+ |   |   |- Guid:D19A6E1A4C05FBCB291FE1AA2C68597B BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_2CF05D8D5BC89B3002_2137731484 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=65.000 Y=1545.000 Z=-4000000.000), Max=(X=65.000 Y=1545.000 Z=-4000000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:ED8A888F458BD4576B7F068F5FFB5896 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0E1EFB1747633703AAB399BCC975020E BaseClass:/Game/BP_BallController.BP_BallController_C NativeClass:/Script/Engine.Actor Name:BP_BallController_C_UAID_2CF05D8D5BC8923002_1685631880 Label:BP_BallController SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=671.829 Y=-128.171 Z=0.000), Max=(X=928.171 Y=128.171 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Players FolderGuid:51C5103C48D330EF67CE8FA6097E2D87
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:5D0471394D03FFCC6153648DF6D45900 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_2CF05D8D5BC89C3002_1171362661 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:86C5F0CC4C522A4C3EC893873EA7A16D BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_2CF05D8D5BC8943002_1209229236 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=3849.000), Max=(X=0.000 Y=0.000 Z=3849.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Players FolderGuid:51C5103C48D330EF67CE8FA6097E2D87
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:B28453E1461D3E7F52FBD8B3DC33E736 BaseClass:/Game/BP_XboxBallController.BP_XboxBallController_C NativeClass:/Script/Engine.Actor Name:BP_XboxBallController_C_UAID_2CF05D8D5BC8983002_1685465948 Label:BP_XboxBallController SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-900.000 Y=-100.000 Z=0.000), Max=(X=-700.000 Y=100.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Players FolderGuid:51C5103C48D330EF67CE8FA6097E2D87
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:B3F161804F8F80322B3E25A4E1B8A8AC BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:C148C1AD4504188DD410FE9202635652 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:Cylinder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1149.999 Y=-1249.999 Z=-50.000), Max=(X=1350.000 Y=1250.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:C783FBBD4B38AAE6D6BA55A8DB02092E BaseClass:/Game/InputControl.InputControl_C NativeClass:/Script/Engine.Actor Name:InputControl_C_UAID_2CF05D8D5BC8963002_2118746590 Label:InputControl SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-220.000 Z=20.000), Max=(X=0.000 Y=270.000 Z=72.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Players FolderGuid:51C5103C48D330EF67CE8FA6097E2D87
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:D19A6E1A4C05FBCB291FE1AA2C68597B BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_2CF05D8D5BC89B3002_2137731484 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=65.000 Y=1545.000 Z=-4000000.000), Max=(X=65.000 Y=1545.000 Z=-4000000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:ED8A888F458BD4576B7F068F5FFB5896 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/SumoCourseLevel
+----------------------------------------------------------------------------------------------------------------
+SumoCourseLevel - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of SumoCourseLevel Persistent Level
+ |- Always loaded Actor Count: 9 
+ |- Actor Path: /Game/SumoCourseLevel.SumoCourseLevel:PersistentLevel.BP_BallController_C_UAID_2CF05D8D5BC8923002_1685631880
+ |- Actor Package: /Game/__ExternalActors__/SumoCourseLevel/7/2V/K5HWQF4U4S6GR4FWMVWLTX
+ |- Actor Path: /Game/SumoCourseLevel.SumoCourseLevel:PersistentLevel.BP_XboxBallController_C_UAID_2CF05D8D5BC8983002_1685465948
+ |- Actor Package: /Game/__ExternalActors__/SumoCourseLevel/E/WI/Y2G1T0MQE24G1LMKD16I3V
+ |- Actor Path: /Game/SumoCourseLevel.SumoCourseLevel:PersistentLevel.CameraActor_UAID_2CF05D8D5BC8943002_1209229236
+ |- Actor Package: /Game/__ExternalActors__/SumoCourseLevel/E/UW/J3JO7VTV5RJEXV54IBAIP0
+ |- Actor Path: /Game/SumoCourseLevel.SumoCourseLevel:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/SumoCourseLevel/C/NA/KJAYBGBVTK5DQ1DTNTJ6AN
+ |- Actor Path: /Game/SumoCourseLevel.SumoCourseLevel:PersistentLevel.InputControl_C_UAID_2CF05D8D5BC8963002_2118746590
+ |- Actor Package: /Game/__ExternalActors__/SumoCourseLevel/5/GD/6FPJUURD16T7W31I8B4LJ4
+ |- Actor Path: /Game/SumoCourseLevel.SumoCourseLevel:PersistentLevel.SkyAtmosphere_UAID_2CF05D8D5BC89B3002_2137731484
+ |- Actor Package: /Game/__ExternalActors__/SumoCourseLevel/7/CI/DJ5H6R68DCSA9CW0KXRCQC
+ |- Actor Path: /Game/SumoCourseLevel.SumoCourseLevel:PersistentLevel.StaticMeshActor_1
+ |- Actor Package: /Game/__ExternalActors__/SumoCourseLevel/3/WZ/VKDGI4NTB2U72AOCHNK6KO
+ |- Actor Path: /Game/SumoCourseLevel.SumoCourseLevel:PersistentLevel.VolumetricCloud_UAID_2CF05D8D5BC89C3002_1171362661
+ |- Actor Package: /Game/__ExternalActors__/SumoCourseLevel/A/IW/XGVS3J85UZ084WKFAD9EX9
+ |- Actor Path: /Game/SumoCourseLevel.SumoCourseLevel:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/SumoCourseLevel/F/1N/RKD6W6VZ2414FD708EM5JB
+
+----------------------------------------------------------------------------------------------------------------
+SumoCourseLevel - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
