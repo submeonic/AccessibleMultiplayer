@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Labyrinth.umap",
+				"D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/BP_Maze.uasset",
 				"D:/Unreal_Projects/AccessibleMultiplayer/ArduinoLink/Content/InputControl.uasset",
 				"D:/Unreal_Projects/AccessibleMultiplayer/ArduinoLink/Content/__ExternalActors__/SumoCourseLevel/7/CI/DJ5H6R68DCSA9CW0KXRCQC.uasset",
 				"C:/Users/chase/Documents/Unreal Projects/ArduinoLink/Content/StarterContent/Architecture/Floor_400x400.uasset",
