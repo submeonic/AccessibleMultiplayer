@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kmcer/Downloads/AccessibleMultiplayer/ArduinoLink/Content/ClawMap.umap",
+				"C:/Users/kmcer/Downloads/AccessibleMultiplayer/ArduinoLink/Content/BP_XboxBallController.uasset",
+				"C:/Users/kmcer/Downloads/AccessibleMultiplayer/ArduinoLink/Content/BP_BallController.uasset",
+				"C:/Users/kmcer/Downloads/AccessibleMultiplayer/ArduinoLink/Content/BP_Claw.uasset",
+				"C:/Users/kmcer/Downloads/AccessibleMultiplayer/ArduinoLink/Content/BP_ClawFloor.uasset",
 				"D:/Unreal_Projects/AccessibleMultiplayer/ArduinoLink/Content/InputControl.uasset",
 				"D:/Unreal_Projects/AccessibleMultiplayer/ArduinoLink/Content/__ExternalActors__/SumoCourseLevel/7/CI/DJ5H6R68DCSA9CW0KXRCQC.uasset",
 				"C:/Users/chase/Documents/Unreal Projects/ArduinoLink/Content/StarterContent/Architecture/Floor_400x400.uasset",
