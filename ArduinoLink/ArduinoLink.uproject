@@ -12,7 +12,7 @@
 			]
 		},
 		{
-			"Name": "SERIALCOM",
+			"Name": "RawInput",
 			"Enabled": true
 		}
 	]
