@@ -77,3 +77,4 @@ DerivedDataCache/*
 **/Saved/
 **/Intermediate/
 /ArduinoLink/Saved
+ArduinoLink/Saved/Telemetry/Telemetry.json
