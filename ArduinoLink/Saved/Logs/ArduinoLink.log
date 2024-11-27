@@ -5872,3 +5872,1105 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.11.27-21.12.59:919][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
 [2024.11.27-21.12.59:935][467]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.11.27-21.12.59:935][467]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.056ms to complete.
+[2024.11.27-21.37.14:609][936]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.11.27-21.37.14:617][936]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.11.27-21.37.14:621][936]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.11.27-21.37.14:626][937]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.11.27-21.37.26:842][402]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_MinigameComplete
+[2024.11.27-21.37.26:847][402]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.11.27-21.37.50:876][280]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-21.38.24:962][332]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.27-21.38.28:319][731]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.27-21.40.09:580][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.27-21.40.33:650][603]LogEditorTransaction: Undo Edit Top
+[2024.11.27-21.40.34:094][625]Cmd: TRANSACTION UNDO
+[2024.11.27-21.40.34:094][625]LogEditorTransaction: Undo Edit Left
+[2024.11.27-21.41.33:420][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.27-21.41.33:423][692]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Minigames/Labyrinth' took 0.016
+[2024.11.27-21.41.33:423][692]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-21.41.33:426][692]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-21.41.33:426][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-21.41.33:524][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WB_MinigameComplete_Auto3
+[2024.11.27-21.41.33:524][692]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameComplete_Auto398E47E2A45FB672C804174B7EE8FAB0A.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/Autosaves/Game/Widgets/WB_MinigameComplete_Auto3.uasset'
+[2024.11.27-21.41.33:526][692]LogFileHelpers: Auto-saving content packages took 0.103
+[2024.11.27-21.41.53:712][466]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.27-21.42.14:802][987]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.27-21.42.24:033][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.27-21.42.58:984][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.27-21.43.31:748][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.11.27-21.45.00:320][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.45.00:341][726]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-21.45.00:342][726]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-21.45.00:342][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-21.45.00:342][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-21.45.00:485][726]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-21.45.00:485][726]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameComplete77F44FC34EC3065A5295538286F4B510.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-21.45.00:495][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.852 ms (total: 25.1 sec)
+[2024.11.27-21.45.00:516][726]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.45.00:516][726]LogContentValidation: Enabled validators:
+[2024.11.27-21.45.00:516][726]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.45.00:516][726]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.45.00:516][726]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.45.00:516][726]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-21.45.00:516][726]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-21.45.01:340][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.11.27-21.45.31:198][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.27-21.45.34:239][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.45.34:263][650]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-21.45.34:266][650]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-21.45.34:266][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-21.45.34:266][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-21.45.34:467][650]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-21.45.34:469][650]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameComplete3B1692B248E2AF46B5C8CCA1757A10DF.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-21.45.34:482][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 242.812 ms (total: 25.3 sec)
+[2024.11.27-21.45.34:504][650]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.45.34:504][650]LogContentValidation: Enabled validators:
+[2024.11.27-21.45.34:504][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.45.34:504][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.45.34:504][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.45.34:504][650]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-21.45.34:504][650]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-21.46.22:781][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.46.22:799][400]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-21.46.22:801][400]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-21.46.22:801][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-21.46.22:801][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-21.46.23:027][400]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-21.46.23:030][400]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameCompleteD509BD2F4E02312ACD51AEBA7AC0C21B.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-21.46.23:042][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 261.412 ms (total: 25.6 sec)
+[2024.11.27-21.46.23:065][400]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.46.23:065][400]LogContentValidation: Enabled validators:
+[2024.11.27-21.46.23:065][400]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.46.23:065][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.46.23:065][400]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.46.23:065][400]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-21.46.23:067][400]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-21.46.24:324][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal\AccessibleMultiplayer\ArduinoLink\Content\Widgets\WB_MinigameComplete.uasset: [Compiler] This blueprint (self) is not a TextBlock, therefore ' Target ' must have a connection.
+[2024.11.27-21.46.24:339][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.27-21.46.33:484][623]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal\AccessibleMultiplayer\ArduinoLink\Content\Widgets\WB_MinigameComplete.uasset: [Compiler] Failed to resolve term  Value generated from expanding Decrement Int  passed into  Target generated from expanding Decrement Int
+[2024.11.27-21.46.33:497][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.27-21.46.41:131][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.46.41:152][514]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-21.46.41:153][514]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-21.46.41:153][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-21.46.41:153][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-21.46.41:394][514]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-21.46.41:396][514]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameComplete1387D13649C41AEB33629C8BECCDB941.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-21.46.41:408][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 277.052 ms (total: 25.8 sec)
+[2024.11.27-21.46.41:426][514]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.46.41:426][514]LogContentValidation: Enabled validators:
+[2024.11.27-21.46.41:426][514]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.46.41:426][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.46.41:426][514]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.46.41:426][514]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-21.46.41:427][514]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-21.46.51:000][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-21.47.02:767][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.47.02:787][ 19]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-21.47.02:788][ 19]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-21.47.02:788][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-21.47.02:788][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-21.47.03:044][ 19]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-21.47.03:046][ 19]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameComplete11E6FF4346172F29661BAD8EA3F90BA0.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-21.47.03:057][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 290.484 ms (total: 26.1 sec)
+[2024.11.27-21.47.03:081][ 19]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.47.03:081][ 19]LogContentValidation: Enabled validators:
+[2024.11.27-21.47.03:081][ 19]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.47.03:081][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.47.03:081][ 19]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.47.03:081][ 19]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-21.47.03:082][ 19]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-21.47.48:667][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.47.48:687][335]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-21.47.48:687][335]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-21.47.48:687][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-21.47.48:688][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-21.47.48:952][335]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-21.47.48:953][335]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameCompleteD1B7B02B4D55E5E37ED5E9BD845593FE.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-21.47.48:964][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 297.712 ms (total: 26.4 sec)
+[2024.11.27-21.47.48:987][335]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.47.48:987][335]LogContentValidation: Enabled validators:
+[2024.11.27-21.47.48:987][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.47.48:987][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.47.48:987][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.47.48:987][335]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-21.47.48:987][335]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-21.47.50:050][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.11.27-21.48.28:587][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.48.28:608][ 66]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_Winner] ([2] browsable assets)...
+[2024.11.27-21.48.28:611][ 66]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_Winner.WB_Winner]
+[2024.11.27-21.48.28:611][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_Winner]
+[2024.11.27-21.48.28:611][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_Winner" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_Winner.uasset" SILENT=true
+[2024.11.27-21.48.28:914][ 66]LogSavePackage: Moving output files for package: /Game/Widgets/WB_Winner
+[2024.11.27-21.48.28:916][ 66]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_Winner1A1AABFB4E1223F9CC50ED9C02716954.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_Winner.uasset'
+[2024.11.27-21.48.28:929][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 341.305 ms (total: 26.8 sec)
+[2024.11.27-21.48.28:948][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.48.28:948][ 66]LogContentValidation: Enabled validators:
+[2024.11.27-21.48.28:948][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.48.28:948][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.48.28:948][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.48.28:948][ 66]LogContentValidation: Display: Validating asset /Game/Widgets/WB_Winner.WB_Winner
+[2024.11.27-21.48.28:948][ 66]AssetCheck: /Game/Widgets/WB_Winner Validating asset
+[2024.11.27-21.48.29:484][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.27-21.48.56:842][215]LogDerivedDataCache: C:/Users/Carson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.27-21.49.28:595][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-21.51.01:652][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.27-21.51.11:508][902]LogSlate: Window 'WB_MinigameComplete' being destroyed
+[2024.11.27-21.51.13:201][ 94]LogSlate: Window 'WB_MinigameComplete' being destroyed
+[2024.11.27-21.51.17:478][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.51.17:499][607]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-21.51.17:502][607]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-21.51.17:502][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-21.51.17:502][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-21.51.17:832][607]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-21.51.17:834][607]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameCompleteA37717F840ECB9DC6EA4168D37E5AD31.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-21.51.17:845][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 367.776 ms (total: 27.1 sec)
+[2024.11.27-21.51.17:870][607]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.51.17:870][607]LogContentValidation: Enabled validators:
+[2024.11.27-21.51.17:870][607]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.51.17:870][607]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.51.17:870][607]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.51.17:870][607]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-21.51.17:871][607]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-21.51.18:847][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-21.52.00:645][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.52.00:663][711]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_Winner] ([2] browsable assets)...
+[2024.11.27-21.52.00:664][711]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_Winner.WB_Winner]
+[2024.11.27-21.52.00:664][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_Winner]
+[2024.11.27-21.52.00:664][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_Winner" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_Winner.uasset" SILENT=true
+[2024.11.27-21.52.00:953][711]LogSavePackage: Moving output files for package: /Game/Widgets/WB_Winner
+[2024.11.27-21.52.00:955][711]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_Winner8C99DF264F4669F45D1412A758F49E7E.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_Winner.uasset'
+[2024.11.27-21.52.00:966][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 321.511 ms (total: 27.5 sec)
+[2024.11.27-21.52.00:987][711]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.52.00:987][711]LogContentValidation: Enabled validators:
+[2024.11.27-21.52.00:987][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.52.00:987][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.52.00:987][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.52.00:987][711]LogContentValidation: Display: Validating asset /Game/Widgets/WB_Winner.WB_Winner
+[2024.11.27-21.52.00:988][711]AssetCheck: /Game/Widgets/WB_Winner Validating asset
+[2024.11.27-21.52.05:086][179]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Minigames/Labyrinth.Labyrinth:PersistentLevel.Labyrinth
+[2024.11.27-21.53.12:146][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.53.12:164][ 36]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Maze/BP_Marble] ([2] browsable assets)...
+[2024.11.27-21.53.12:207][ 36]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Maze/BP_Marble.BP_Marble]
+[2024.11.27-21.53.12:207][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maze/BP_Marble]
+[2024.11.27-21.53.12:207][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maze/BP_Marble" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Maze/BP_Marble.uasset" SILENT=true
+[2024.11.27-21.53.12:444][ 36]LogSavePackage: Moving output files for package: /Game/Maze/BP_Marble
+[2024.11.27-21.53.12:446][ 36]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/BP_Marble8086E50D45396064EAE070841D1CE3DB.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Maze/BP_Marble.uasset'
+[2024.11.27-21.53.12:457][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 310.992 ms (total: 27.8 sec)
+[2024.11.27-21.53.12:475][ 36]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.53.12:475][ 36]LogContentValidation: Enabled validators:
+[2024.11.27-21.53.12:475][ 36]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.53.12:475][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.53.12:475][ 36]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.53.12:475][ 36]LogContentValidation: Display: Validating asset /Game/Maze/BP_Marble.BP_Marble
+[2024.11.27-21.53.12:475][ 36]AssetCheck: /Game/Maze/BP_Marble Validating asset
+[2024.11.27-21.53.13:509][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.27-21.53.13:515][156]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_FinishZone_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.27-21.53.13:516][156]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Minigames/Labyrinth.Labyrinth:PersistentLevel.DESTROYED_BP_FinishZone_C_CHILDACTOR_8.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.27-21.53.13:532][156]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_FinishZone_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.27-21.53.13:534][156]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Minigames/Labyrinth.Labyrinth:PersistentLevel.DESTROYED_BP_FinishZone_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.27-21.53.19:939][872]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.27-21.53.19:961][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.27-21.53.19:982][872]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.53.19:984][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001363s)
+[2024.11.27-21.53.19:984][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001385s)
+[2024.11.27-21.53.19:995][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.27-21.53.19:999][872]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-21.53.19:999][872]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2024.11.27-21.53.20:011][872]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.11.27-21.53.20:011][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.27-21.53.20:012][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.27-21.53.20:012][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.27-21.53.20:012][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.27-21.53.20:012][872]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.27-21.53.20:012][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.27-21.53.20:012][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.27-21.53.20:012][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.27-21.53.20:012][872]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.27-21.53.20:012][872]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.27-21.53.20:012][872]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.27-21.53.20:013][872]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.27-21.53.20:039][872]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.11.27-21.53.20:039][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.27-21.53.20:039][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.27-21.53.20:039][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.27-21.53.20:039][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.11.27-21.53.20:039][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.11.27-21.53.20:040][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.11.27-21.53.20:040][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.11.27-21.53.20:040][872]LogInit: FAudioDevice initialized with ID 41.
+[2024.11.27-21.53.20:040][872]LogAudio: Display: Audio Device (ID: 41) registered with world 'Labyrinth'.
+[2024.11.27-21.53.20:040][872]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.11.27-21.53.20:043][872]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-21.53.20:043][872]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-14.53.20
+[2024.11.27-21.53.20:043][872]LogWorld: Bringing up level for play took: 0.000529
+[2024.11.27-21.53.20:045][872]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2024.11.27-21.53.20:057][872]PIE: Server logged in
+[2024.11.27-21.53.20:058][872]PIE: Play in editor total start time 0.1 seconds.
+[2024.11.27-21.53.47:915][191]LogBlueprintUserMessages: [GI_Marble_C_39] Labyrinth
+[2024.11.27-21.53.47:922][192]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Minigames/Labyrinth"
+[2024.11.27-21.53.47:923][192]LogNet: Browse: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-21.53.47:923][192]LogLoad: LoadMap: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-21.53.47:923][192]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.53.47:923][192]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-21.53.47:923][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.53.47:924][192]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-21.53.47:924][192]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-21.53.47:969][192]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-21.53.47:971][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-21.53.47:974][192]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.53.47:975][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001240s)
+[2024.11.27-21.53.47:975][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001279s)
+[2024.11.27-21.53.47:975][192]LogAudio: Display: Audio Device (ID: 41) registered with world 'Labyrinth'.
+[2024.11.27-21.53.47:975][192]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-21.53.47:976][192]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2024.11.27-21.53.47:976][192]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-21.53.47:977][192]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-14.53.47
+[2024.11.27-21.53.47:977][192]LogWorld: Bringing up level for play took: 0.000456
+[2024.11.27-21.53.47:978][192]LogLoad: Took 0.055174 seconds to LoadMap(/Game/Levels/Minigames/UEDPIE_0_Labyrinth)
+[2024.11.27-21.53.47:978][192]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.53.50:654][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-21.53.50:654][509]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.53.50:654][509]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-21.53.50:654][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.53.50:654][509]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-21.53.50:654][509]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-21.53.50:668][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.27-21.53.50:672][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.53.50:682][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-21.53.50:682][509]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.11.27-21.53.50:682][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.11.27-21.53.50:684][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.11.27-21.53.50:688][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-21.53.50:739][510]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.11.27-21.54.35:031][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.54.35:053][761]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-21.54.35:055][761]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-21.54.35:055][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-21.54.35:055][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-21.54.35:386][761]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-21.54.35:389][761]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameComplete403342FE4FDB477539B55A8BAC3C19C8.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-21.54.35:400][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 368.230 ms (total: 28.1 sec)
+[2024.11.27-21.54.35:422][761]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.54.35:422][761]LogContentValidation: Enabled validators:
+[2024.11.27-21.54.35:422][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.54.35:422][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.54.35:422][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.54.35:422][761]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-21.54.35:422][761]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-21.54.35:817][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-21.54.44:835][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.54.44:858][862]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Maze/BP_Marble] ([2] browsable assets)...
+[2024.11.27-21.54.44:909][862]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Maze/BP_Marble.BP_Marble]
+[2024.11.27-21.54.44:909][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maze/BP_Marble]
+[2024.11.27-21.54.44:909][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maze/BP_Marble" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Maze/BP_Marble.uasset" SILENT=true
+[2024.11.27-21.54.45:138][862]LogSavePackage: Moving output files for package: /Game/Maze/BP_Marble
+[2024.11.27-21.54.45:140][862]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/BP_MarbleF62DF837497CD78DDF1196890B96B5E8.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Maze/BP_Marble.uasset'
+[2024.11.27-21.54.45:152][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 316.286 ms (total: 28.5 sec)
+[2024.11.27-21.54.45:173][862]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.54.45:173][862]LogContentValidation: Enabled validators:
+[2024.11.27-21.54.45:173][862]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.54.45:173][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.54.45:173][862]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.54.45:173][862]LogContentValidation: Display: Validating asset /Game/Maze/BP_Marble.BP_Marble
+[2024.11.27-21.54.45:173][862]AssetCheck: /Game/Maze/BP_Marble Validating asset
+[2024.11.27-21.54.45:842][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.27-21.54.45:848][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_FinishZone_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.27-21.54.45:850][939]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Minigames/Labyrinth.Labyrinth:PersistentLevel.DESTROYED_BP_FinishZone_C_CHILDACTOR_12.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.27-21.54.45:867][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_FinishZone_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.27-21.54.45:868][939]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Minigames/Labyrinth.Labyrinth:PersistentLevel.DESTROYED_BP_FinishZone_C_CHILDACTOR_14.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.27-21.54.47:453][104]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.27-21.54.47:476][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.27-21.54.47:476][104]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.54.47:477][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001380s)
+[2024.11.27-21.54.47:477][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001400s)
+[2024.11.27-21.54.47:488][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.27-21.54.47:493][104]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-21.54.47:494][104]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2024.11.27-21.54.47:505][104]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.11.27-21.54.47:505][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.27-21.54.47:505][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.27-21.54.47:505][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.27-21.54.47:505][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.27-21.54.47:505][104]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.27-21.54.47:505][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.27-21.54.47:505][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.27-21.54.47:505][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.27-21.54.47:505][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.27-21.54.47:505][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.27-21.54.47:505][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.27-21.54.47:507][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.27-21.54.47:531][104]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.11.27-21.54.47:532][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.27-21.54.47:532][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.27-21.54.47:532][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.27-21.54.47:532][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.11.27-21.54.47:532][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.11.27-21.54.47:533][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.11.27-21.54.47:533][104]LogInit: FAudioDevice initialized with ID 42.
+[2024.11.27-21.54.47:533][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.11.27-21.54.47:533][104]LogAudio: Display: Audio Device (ID: 42) registered with world 'Labyrinth'.
+[2024.11.27-21.54.47:533][104]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.11.27-21.54.47:536][104]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-21.54.47:536][104]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-14.54.47
+[2024.11.27-21.54.47:536][104]LogWorld: Bringing up level for play took: 0.000526
+[2024.11.27-21.54.47:537][104]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2024.11.27-21.54.47:550][104]PIE: Server logged in
+[2024.11.27-21.54.47:550][104]PIE: Play in editor total start time 0.077 seconds.
+[2024.11.27-21.55.15:235][417]LogBlueprintUserMessages: [GI_Marble_C_40] Labyrinth
+[2024.11.27-21.55.15:242][418]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Minigames/Labyrinth"
+[2024.11.27-21.55.15:242][418]LogNet: Browse: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-21.55.15:242][418]LogLoad: LoadMap: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-21.55.15:242][418]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.55.15:243][418]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-21.55.15:243][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.55.15:243][418]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-21.55.15:243][418]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-21.55.15:282][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-21.55.15:284][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-21.55.15:286][418]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.55.15:287][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001197s)
+[2024.11.27-21.55.15:287][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001235s)
+[2024.11.27-21.55.15:287][418]LogAudio: Display: Audio Device (ID: 42) registered with world 'Labyrinth'.
+[2024.11.27-21.55.15:287][418]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-21.55.15:288][418]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2024.11.27-21.55.15:288][418]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-21.55.15:288][418]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-14.55.15
+[2024.11.27-21.55.15:288][418]LogWorld: Bringing up level for play took: 0.000424
+[2024.11.27-21.55.15:289][418]LogLoad: Took 0.047655 seconds to LoadMap(/Game/Levels/Minigames/UEDPIE_0_Labyrinth)
+[2024.11.27-21.55.15:289][418]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.55.41:522][565]LogBlueprintUserMessages: [GI_Marble_C_40] Player 1 Wins!
+[2024.11.27-21.55.41:529][566]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/GameComplete"
+[2024.11.27-21.55.41:529][566]LogNet: Browse: /Game/Levels/GameComplete
+[2024.11.27-21.55.41:529][566]LogLoad: LoadMap: /Game/Levels/GameComplete
+[2024.11.27-21.55.41:529][566]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.55.41:530][566]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-21.55.41:531][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.55.41:531][566]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-21.55.41:531][566]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-21.55.41:562][566]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-21.55.41:564][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.27-21.55.41:567][566]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameComplete
+[2024.11.27-21.55.41:568][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001100s)
+[2024.11.27-21.55.41:568][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameComplete.GameComplete to /Game/Levels/UEDPIE_0_GameComplete.GameComplete (0.001138s)
+[2024.11.27-21.55.41:568][566]LogAudio: Display: Audio Device (ID: 42) registered with world 'GameComplete'.
+[2024.11.27-21.55.41:568][566]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-21.55.41:569][566]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2024.11.27-21.55.41:569][566]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-21.55.41:569][566]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameComplete.GameComplete up for play (max tick rate 0) at 2024.11.27-14.55.41
+[2024.11.27-21.55.41:569][566]LogWorld: Bringing up level for play took: 0.000378
+[2024.11.27-21.55.41:569][566]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.11.27-21.55.41:570][566]LogLoad: Took 0.040635 seconds to LoadMap(/Game/Levels/UEDPIE_0_GameComplete)
+[2024.11.27-21.55.41:570][566]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/UEDPIE_0_GameComplete
+[2024.11.27-21.55.52:541][882]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/TutorialCourseLevel"
+[2024.11.27-21.55.52:541][882]LogNet: Browse: /Game/Levels/TutorialCourseLevel
+[2024.11.27-21.55.52:541][882]LogLoad: LoadMap: /Game/Levels/TutorialCourseLevel
+[2024.11.27-21.55.52:541][882]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameComplete
+[2024.11.27-21.55.52:542][882]LogWorld: UWorld::CleanupWorld for GameComplete, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-21.55.52:542][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.55.52:542][882]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-21.55.52:542][882]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-21.55.52:593][882]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-21.55.52:594][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.27-21.55.52:607][882]LogAudio: Display: Audio Device (ID: 42) registered with world 'TutorialCourseLevel'.
+[2024.11.27-21.55.52:607][882]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-21.55.52:607][882]LogWorldPartition: ULevel::OnLevelLoaded(TutorialCourseLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.27-21.55.52:607][882]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.27-21.55.52:607][882]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.11.27-21.55.52:607][882]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.27-21.55.52:608][882]LogWorldPartition: Display: GenerateStreaming for 'TutorialCourseLevel' started...
+[2024.11.27-21.55.52:609][882]LogStreaming: Display: FlushAsyncLoading(31): 15 QueuedPackages, 0 AsyncPackages
+[2024.11.27-21.55.52:624][882]LogWorldPartition: Display: GenerateStreaming for 'TutorialCourseLevel' took 15.718 ms (total: 45.268 ms)
+[2024.11.27-21.55.52:624][882]LogContentBundle: [TutorialCourseLevel(Standalone)] Creating new container.
+[2024.11.27-21.55.52:624][882]LogWorldPartition: Display: WorldPartition initialize took 16.952 ms (total: 54.934 ms)
+[2024.11.27-21.55.52:624][882]LogPlayLevel: PIE: World Init took: (0.017601s)
+[2024.11.27-21.55.52:624][882]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.27-21.55.52:626][882]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel up for play (max tick rate 0) at 2024.11.27-14.55.52
+[2024.11.27-21.55.52:626][882]LogWorld: Bringing up level for play took: 0.001306
+[2024.11.27-21.55.52:626][882]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.11.27-21.55.52:627][882]LogTemp: Error: Failed to setup port COM6. Error: 00000006
+[2024.11.27-21.55.52:627][882]LogBlueprintUserMessages: [InputControl_C_UAID_2CF05D8D5BC8963002_2118746590] Port is NOT CONNECTED!!!
+[2024.11.27-21.55.52:627][882]LogLoad: Took 0.085975 seconds to LoadMap(/Game/Levels/TutorialCourseLevel)
+[2024.11.27-21.55.52:627][882]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/TutorialCourseLevel
+[2024.11.27-21.55.53:184][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-21.55.53:184][943]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TutorialCourseLevel
+[2024.11.27-21.55.53:184][943]LogScript: Warning: Accessed None trying to read property MySerialPort
+	InputControl_C /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel:PersistentLevel.InputControl_C_UAID_2CF05D8D5BC8963002_2118746590
+	Function /Game/InputControl.InputControl_C:ExecuteUbergraph_InputControl:06CB
+[2024.11.27-21.55.53:184][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MySerialPort". Node:  Serial Print Line Graph:  EventGraph Function:  Execute Ubergraph Input Control Blueprint:  InputControl
+[2024.11.27-21.55.53:184][943]LogScript: Warning: Accessed None trying to read property MySerialPort
+	InputControl_C /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel:PersistentLevel.InputControl_C_UAID_2CF05D8D5BC8963002_2118746590
+	Function /Game/InputControl.InputControl_C:ExecuteUbergraph_InputControl:0729
+[2024.11.27-21.55.53:184][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MySerialPort". Node:  Close Serial Port Graph:  EventGraph Function:  Execute Ubergraph Input Control Blueprint:  InputControl
+[2024.11.27-21.55.53:184][943]LogWorld: UWorld::CleanupWorld for TutorialCourseLevel, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-21.55.53:184][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.55.53:184][943]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel
+[2024.11.27-21.55.53:184][943]LogContentBundle: [TutorialCourseLevel(Standalone)] Deleting container.
+[2024.11.27-21.55.53:184][943]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-21.55.53:184][943]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-21.55.53:187][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.27-21.55.53:190][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.55.53:201][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-21.55.53:201][943]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.11.27-21.55.53:201][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.11.27-21.55.53:202][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.11.27-21.55.53:206][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.27-21.55.53:297][944]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2024.11.27-21.55.55:620][189]LogSlate: Window 'Message Log' being destroyed
+[2024.11.27-21.55.55:634][189]LogSlate: Window 'Message Log' being destroyed
+[2024.11.27-21.56.59:344][812]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.27-21.56.59:365][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.27-21.56.59:365][812]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.56.59:367][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001335s)
+[2024.11.27-21.56.59:367][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001357s)
+[2024.11.27-21.56.59:378][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.11.27-21.56.59:382][812]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-21.56.59:382][812]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2024.11.27-21.56.59:394][812]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.11.27-21.56.59:394][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.27-21.56.59:394][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.27-21.56.59:394][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.27-21.56.59:394][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.27-21.56.59:394][812]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.27-21.56.59:394][812]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.27-21.56.59:394][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.27-21.56.59:394][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.27-21.56.59:394][812]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.27-21.56.59:394][812]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.27-21.56.59:394][812]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.27-21.56.59:395][812]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.27-21.56.59:421][812]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.11.27-21.56.59:421][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.27-21.56.59:421][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.27-21.56.59:421][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.27-21.56.59:421][812]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.11.27-21.56.59:421][812]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.11.27-21.56.59:423][812]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.11.27-21.56.59:423][812]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.11.27-21.56.59:423][812]LogInit: FAudioDevice initialized with ID 43.
+[2024.11.27-21.56.59:423][812]LogAudio: Display: Audio Device (ID: 43) registered with world 'Labyrinth'.
+[2024.11.27-21.56.59:423][812]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.11.27-21.56.59:425][812]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-21.56.59:425][812]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-14.56.59
+[2024.11.27-21.56.59:425][812]LogWorld: Bringing up level for play took: 0.000543
+[2024.11.27-21.56.59:427][812]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2024.11.27-21.56.59:439][812]PIE: Server logged in
+[2024.11.27-21.56.59:439][812]PIE: Play in editor total start time 0.077 seconds.
+[2024.11.27-21.57.26:292][ 25]LogBlueprintUserMessages: [GI_Marble_C_41] Labyrinth
+[2024.11.27-21.57.26:299][ 26]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Minigames/Labyrinth"
+[2024.11.27-21.57.26:299][ 26]LogNet: Browse: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-21.57.26:299][ 26]LogLoad: LoadMap: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-21.57.26:299][ 26]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.57.26:301][ 26]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-21.57.26:301][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.57.26:301][ 26]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-21.57.26:301][ 26]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-21.57.26:342][ 26]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-21.57.26:344][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-21.57.26:347][ 26]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.57.26:348][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001603s)
+[2024.11.27-21.57.26:348][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001658s)
+[2024.11.27-21.57.26:348][ 26]LogAudio: Display: Audio Device (ID: 43) registered with world 'Labyrinth'.
+[2024.11.27-21.57.26:348][ 26]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-21.57.26:349][ 26]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2024.11.27-21.57.26:349][ 26]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-21.57.26:350][ 26]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-14.57.26
+[2024.11.27-21.57.26:350][ 26]LogWorld: Bringing up level for play took: 0.000429
+[2024.11.27-21.57.26:350][ 26]LogLoad: Took 0.051065 seconds to LoadMap(/Game/Levels/Minigames/UEDPIE_0_Labyrinth)
+[2024.11.27-21.57.26:350][ 26]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.57.44:825][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-21.57.44:825][238]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.57.44:825][238]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-21.57.44:825][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.57.44:825][238]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-21.57.44:825][238]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-21.57.44:840][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.27-21.57.44:844][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.57.44:854][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-21.57.44:854][238]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.11.27-21.57.44:854][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.11.27-21.57.44:855][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.11.27-21.57.44:859][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-21.57.44:930][239]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.11.27-21.58.13:437][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.58.13:458][636]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-21.58.13:459][636]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-21.58.13:459][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-21.58.13:459][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-21.58.13:793][636]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-21.58.13:795][636]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameCompleteF1BE4ECC48887693F779A4AA69494B02.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-21.58.13:807][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 369.678 ms (total: 28.8 sec)
+[2024.11.27-21.58.13:833][636]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.58.13:833][636]LogContentValidation: Enabled validators:
+[2024.11.27-21.58.13:833][636]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.58.13:833][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.58.13:833][636]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.58.13:833][636]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-21.58.13:834][636]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-21.58.14:833][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-21.58.40:190][723]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.27-21.58.40:213][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.27-21.58.40:262][723]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.58.40:264][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001290s)
+[2024.11.27-21.58.40:264][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001317s)
+[2024.11.27-21.58.40:275][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.27-21.58.40:279][723]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-21.58.40:280][723]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2024.11.27-21.58.40:292][723]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.11.27-21.58.40:292][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.27-21.58.40:292][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.27-21.58.40:292][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.27-21.58.40:292][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.27-21.58.40:292][723]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.27-21.58.40:292][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.27-21.58.40:292][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.27-21.58.40:292][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.27-21.58.40:292][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.27-21.58.40:292][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.27-21.58.40:292][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.27-21.58.40:294][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.27-21.58.40:318][723]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.11.27-21.58.40:318][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.27-21.58.40:318][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.27-21.58.40:318][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.27-21.58.40:319][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.11.27-21.58.40:319][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.11.27-21.58.40:320][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.11.27-21.58.40:320][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.11.27-21.58.40:320][723]LogInit: FAudioDevice initialized with ID 44.
+[2024.11.27-21.58.40:320][723]LogAudio: Display: Audio Device (ID: 44) registered with world 'Labyrinth'.
+[2024.11.27-21.58.40:320][723]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.11.27-21.58.40:323][723]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-21.58.40:323][723]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-14.58.40
+[2024.11.27-21.58.40:323][723]LogWorld: Bringing up level for play took: 0.000627
+[2024.11.27-21.58.40:325][723]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.11.27-21.58.40:337][723]PIE: Server logged in
+[2024.11.27-21.58.40:338][723]PIE: Play in editor total start time 0.127 seconds.
+[2024.11.27-21.59.04:105][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-21.59.04:105][562]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-21.59.04:105][562]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-21.59.04:105][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.59.04:105][562]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-21.59.04:105][562]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-21.59.04:120][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.27-21.59.04:124][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-21.59.04:134][562]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-21.59.04:134][562]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.11.27-21.59.04:134][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.11.27-21.59.04:135][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.11.27-21.59.04:138][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-21.59.04:140][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.27-21.59.04:212][563]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.11.27-21.59.40:148][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-21.59.40:167][849]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-21.59.40:169][849]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-21.59.40:169][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-21.59.40:169][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-21.59.40:504][849]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-21.59.40:505][849]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameComplete59E7AEDC4BF4AC8067B9A293754F446D.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-21.59.40:518][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 370.056 ms (total: 29.2 sec)
+[2024.11.27-21.59.40:537][849]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-21.59.40:537][849]LogContentValidation: Enabled validators:
+[2024.11.27-21.59.40:537][849]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-21.59.40:537][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-21.59.40:537][849]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-21.59.40:537][849]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-21.59.40:538][849]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-21.59.41:032][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.27-22.00.15:495][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-22.00.15:513][994]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-22.00.15:514][994]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-22.00.15:514][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-22.00.15:514][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-22.00.15:853][994]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-22.00.15:855][994]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameCompleteD8666469434846AA91A5E7B1390FA275.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-22.00.15:865][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 370.615 ms (total: 29.6 sec)
+[2024.11.27-22.00.15:887][994]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-22.00.15:887][994]LogContentValidation: Enabled validators:
+[2024.11.27-22.00.15:887][994]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-22.00.15:887][994]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-22.00.15:887][994]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-22.00.15:887][994]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-22.00.15:887][994]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-22.00.16:738][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-22.00.19:297][372]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.27-22.00.19:319][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.27-22.00.19:320][372]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.00.19:320][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001297s)
+[2024.11.27-22.00.19:320][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001319s)
+[2024.11.27-22.00.19:332][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-22.00.19:335][372]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-22.00.19:336][372]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2024.11.27-22.00.19:348][372]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.11.27-22.00.19:348][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.27-22.00.19:348][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.27-22.00.19:348][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.27-22.00.19:348][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.27-22.00.19:348][372]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.27-22.00.19:348][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.27-22.00.19:348][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.27-22.00.19:348][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.27-22.00.19:348][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.27-22.00.19:348][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.27-22.00.19:348][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.27-22.00.19:350][372]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.27-22.00.19:375][372]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.11.27-22.00.19:375][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.27-22.00.19:375][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.27-22.00.19:375][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.27-22.00.19:375][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.11.27-22.00.19:375][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.11.27-22.00.19:377][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.11.27-22.00.19:377][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.11.27-22.00.19:377][372]LogInit: FAudioDevice initialized with ID 45.
+[2024.11.27-22.00.19:377][372]LogAudio: Display: Audio Device (ID: 45) registered with world 'Labyrinth'.
+[2024.11.27-22.00.19:377][372]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.11.27-22.00.19:380][372]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-22.00.19:380][372]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-15.00.19
+[2024.11.27-22.00.19:380][372]LogWorld: Bringing up level for play took: 0.000528
+[2024.11.27-22.00.19:381][372]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2024.11.27-22.00.19:394][372]PIE: Server logged in
+[2024.11.27-22.00.19:394][372]PIE: Play in editor total start time 0.078 seconds.
+[2024.11.27-22.00.46:005][556]LogBlueprintUserMessages: [GI_Marble_C_43] Labyrinth
+[2024.11.27-22.00.46:012][557]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Minigames/Labyrinth"
+[2024.11.27-22.00.46:012][557]LogNet: Browse: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-22.00.46:012][557]LogLoad: LoadMap: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-22.00.46:012][557]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.00.46:013][557]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.00.46:013][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.00.46:013][557]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-22.00.46:013][557]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-22.00.46:052][557]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-22.00.46:054][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.27-22.00.46:057][557]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.00.46:058][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001285s)
+[2024.11.27-22.00.46:058][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001328s)
+[2024.11.27-22.00.46:058][557]LogAudio: Display: Audio Device (ID: 45) registered with world 'Labyrinth'.
+[2024.11.27-22.00.46:058][557]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-22.00.46:059][557]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2024.11.27-22.00.46:059][557]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-22.00.46:059][557]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-15.00.46
+[2024.11.27-22.00.46:059][557]LogWorld: Bringing up level for play took: 0.000473
+[2024.11.27-22.00.46:060][557]LogLoad: Took 0.048070 seconds to LoadMap(/Game/Levels/Minigames/UEDPIE_0_Labyrinth)
+[2024.11.27-22.00.46:060][557]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.00.48:225][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-22.00.48:225][812]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.00.48:225][812]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.00.48:225][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.00.48:225][812]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-22.00.48:225][812]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-22.00.48:228][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.27-22.00.48:232][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.00.48:242][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-22.00.48:242][812]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.11.27-22.00.48:242][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.11.27-22.00.48:244][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.11.27-22.00.48:249][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.27-22.00.48:319][813]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.11.27-22.02.41:544][ 90]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maze/SM_Maze.SM_Maze
+[2024.11.27-22.02.41:594][ 90]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.11.27-22.03.49:568][901]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.03.49:568][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.03.49:602][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.27-22.06.30:284][516]LogSlate: External Image Picker: DecompressImage failed
+[2024.11.27-22.06.55:319][126]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.27-22.06.55:342][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.27-22.06.55:342][126]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.06.55:343][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001363s)
+[2024.11.27-22.06.55:343][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001385s)
+[2024.11.27-22.06.55:355][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.27-22.06.55:358][126]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-22.06.55:359][126]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2024.11.27-22.06.55:370][126]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2024.11.27-22.06.55:370][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.27-22.06.55:370][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.27-22.06.55:370][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.27-22.06.55:370][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.27-22.06.55:370][126]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.27-22.06.55:370][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.27-22.06.55:370][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.27-22.06.55:370][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.27-22.06.55:370][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.27-22.06.55:370][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.27-22.06.55:370][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.27-22.06.55:372][126]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.27-22.06.55:398][126]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.11.27-22.06.55:398][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.27-22.06.55:398][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.27-22.06.55:398][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.27-22.06.55:398][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2024.11.27-22.06.55:398][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2024.11.27-22.06.55:399][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2024.11.27-22.06.55:399][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2024.11.27-22.06.55:399][126]LogInit: FAudioDevice initialized with ID 46.
+[2024.11.27-22.06.55:399][126]LogAudio: Display: Audio Device (ID: 46) registered with world 'Labyrinth'.
+[2024.11.27-22.06.55:399][126]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2024.11.27-22.06.55:402][126]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-22.06.55:403][126]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-15.06.55
+[2024.11.27-22.06.55:403][126]LogWorld: Bringing up level for play took: 0.000535
+[2024.11.27-22.06.55:404][126]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2024.11.27-22.06.55:416][126]PIE: Server logged in
+[2024.11.27-22.06.55:417][126]PIE: Play in editor total start time 0.078 seconds.
+[2024.11.27-22.07.33:944][739]LogBlueprintUserMessages: [GI_Marble_C_44] Labyrinth
+[2024.11.27-22.07.33:950][740]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Minigames/Labyrinth"
+[2024.11.27-22.07.33:950][740]LogNet: Browse: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-22.07.33:950][740]LogLoad: LoadMap: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-22.07.33:950][740]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.07.33:952][740]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.07.33:952][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.07.33:952][740]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-22.07.33:952][740]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-22.07.34:003][740]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-22.07.34:005][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.27-22.07.34:007][740]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.07.34:009][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001561s)
+[2024.11.27-22.07.34:009][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001615s)
+[2024.11.27-22.07.34:009][740]LogAudio: Display: Audio Device (ID: 46) registered with world 'Labyrinth'.
+[2024.11.27-22.07.34:009][740]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-22.07.34:010][740]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2024.11.27-22.07.34:010][740]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-22.07.34:010][740]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-15.07.34
+[2024.11.27-22.07.34:010][740]LogWorld: Bringing up level for play took: 0.000434
+[2024.11.27-22.07.34:011][740]LogLoad: Took 0.060379 seconds to LoadMap(/Game/Levels/Minigames/UEDPIE_0_Labyrinth)
+[2024.11.27-22.07.34:011][740]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.07.36:465][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-22.07.36:466][ 31]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.07.36:466][ 31]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.07.36:466][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.07.36:466][ 31]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-22.07.36:466][ 31]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-22.07.36:480][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.27-22.07.36:484][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.07.36:493][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-22.07.36:493][ 31]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2024.11.27-22.07.36:494][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.11.27-22.07.36:495][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.11.27-22.07.36:499][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-22.07.36:570][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2024.11.27-22.08.01:304][959]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.27-22.08.04:142][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-22.08.05:376][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-22.08.05:399][421]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-22.08.05:400][421]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-22.08.05:400][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-22.08.05:400][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-22.08.05:729][421]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-22.08.05:731][421]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameComplete58C76DB04F0B3997A76173B6666FE6DD.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-22.08.05:741][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 364.584 ms (total: 29.9 sec)
+[2024.11.27-22.08.05:769][421]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-22.08.05:769][421]LogContentValidation: Enabled validators:
+[2024.11.27-22.08.05:769][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-22.08.05:769][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-22.08.05:769][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-22.08.05:769][421]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-22.08.05:769][421]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-22.09.12:263][251]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BallController.BP_BallController
+[2024.11.27-22.10.58:505][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-22.10.58:613][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.11.27-22.10.58:620][181]LogWorldPartition: Can't find class descriptor '/Game/Levels/Minigames/Labyrinth.Labyrinth_C' for saving '/Game/Levels/Minigames/Labyrinth.Labyrinth_C'
+[2024.11.27-22.10.58:620][181]LogWorldPartition: Can't find class descriptor '/Game/Levels/Minigames/Labyrinth.Labyrinth_C' for saving '/Game/Levels/Minigames/Labyrinth.Labyrinth_C'
+[2024.11.27-22.10.59:081][181]LogSavePackage: Moving output files for package: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-22.10.59:084][181]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/Labyrinth64FBEC40446B74E3321FB3BEE036233D.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Levels/Minigames/Labyrinth.umap'
+[2024.11.27-22.10.59:110][181]LogFileHelpers: Saving map 'Labyrinth' took 0.568
+[2024.11.27-22.10.59:114][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 609.610 ms (total: 30.5 sec)
+[2024.11.27-22.10.59:135][181]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-22.10.59:135][181]LogContentValidation: Enabled validators:
+[2024.11.27-22.10.59:135][181]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-22.10.59:135][181]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-22.10.59:135][181]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-22.10.59:135][181]LogContentValidation: Display: Validating asset /Game/Levels/Minigames/Labyrinth.Labyrinth
+[2024.11.27-22.10.59:135][181]AssetCheck: /Game/Levels/Minigames/Labyrinth Validating asset
+[2024.11.27-22.11.01:872][506]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.27-22.11.01:893][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.27-22.11.01:933][506]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.11.01:934][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001360s)
+[2024.11.27-22.11.01:935][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001387s)
+[2024.11.27-22.11.01:945][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.11.27-22.11.01:947][506]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-22.11.01:948][506]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2024.11.27-22.11.01:960][506]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2024.11.27-22.11.01:960][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.27-22.11.01:960][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.27-22.11.01:960][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.27-22.11.01:960][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.27-22.11.01:960][506]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.27-22.11.01:960][506]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.27-22.11.01:960][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.27-22.11.01:960][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.27-22.11.01:960][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.27-22.11.01:960][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.27-22.11.01:960][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.27-22.11.01:961][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.27-22.11.01:988][506]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.11.27-22.11.01:988][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.27-22.11.01:988][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.27-22.11.01:988][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.27-22.11.01:988][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2024.11.27-22.11.01:988][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2024.11.27-22.11.01:989][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2024.11.27-22.11.01:989][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2024.11.27-22.11.01:989][506]LogInit: FAudioDevice initialized with ID 47.
+[2024.11.27-22.11.01:989][506]LogAudio: Display: Audio Device (ID: 47) registered with world 'Labyrinth'.
+[2024.11.27-22.11.01:989][506]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2024.11.27-22.11.01:991][506]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-22.11.01:992][506]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-15.11.01
+[2024.11.27-22.11.01:993][506]LogWorld: Bringing up level for play took: 0.000615
+[2024.11.27-22.11.01:994][506]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2024.11.27-22.11.02:006][506]PIE: Server logged in
+[2024.11.27-22.11.02:008][506]PIE: Play in editor total start time 0.117 seconds.
+[2024.11.27-22.11.38:474][872]LogBlueprintUserMessages: [GI_Marble_C_45] Labyrinth
+[2024.11.27-22.11.38:481][873]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Minigames/Labyrinth"
+[2024.11.27-22.11.38:481][873]LogNet: Browse: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-22.11.38:481][873]LogLoad: LoadMap: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-22.11.38:481][873]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.11.38:481][873]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.11.38:482][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.11.38:482][873]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-22.11.38:482][873]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-22.11.38:522][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-22.11.38:524][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-22.11.38:526][873]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.11.38:528][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001220s)
+[2024.11.27-22.11.38:528][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001260s)
+[2024.11.27-22.11.38:528][873]LogAudio: Display: Audio Device (ID: 47) registered with world 'Labyrinth'.
+[2024.11.27-22.11.38:528][873]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-22.11.38:528][873]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2024.11.27-22.11.38:528][873]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-22.11.38:528][873]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-15.11.38
+[2024.11.27-22.11.38:529][873]LogWorld: Bringing up level for play took: 0.000427
+[2024.11.27-22.11.38:530][873]LogLoad: Took 0.048959 seconds to LoadMap(/Game/Levels/Minigames/UEDPIE_0_Labyrinth)
+[2024.11.27-22.11.38:530][873]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.12.03:274][841]LogBlueprintUserMessages: [GI_Marble_C_45] Player 1 Wins!
+[2024.11.27-22.12.03:281][842]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/GameComplete"
+[2024.11.27-22.12.03:281][842]LogNet: Browse: /Game/Levels/GameComplete
+[2024.11.27-22.12.03:281][842]LogLoad: LoadMap: /Game/Levels/GameComplete
+[2024.11.27-22.12.03:281][842]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.12.03:282][842]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.12.03:282][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.12.03:283][842]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-22.12.03:283][842]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-22.12.03:314][842]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-22.12.03:316][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.27-22.12.03:319][842]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameComplete
+[2024.11.27-22.12.03:320][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001013s)
+[2024.11.27-22.12.03:320][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameComplete.GameComplete to /Game/Levels/UEDPIE_0_GameComplete.GameComplete (0.001049s)
+[2024.11.27-22.12.03:320][842]LogAudio: Display: Audio Device (ID: 47) registered with world 'GameComplete'.
+[2024.11.27-22.12.03:320][842]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-22.12.03:320][842]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2024.11.27-22.12.03:320][842]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-22.12.03:321][842]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameComplete.GameComplete up for play (max tick rate 0) at 2024.11.27-15.12.03
+[2024.11.27-22.12.03:321][842]LogWorld: Bringing up level for play took: 0.000376
+[2024.11.27-22.12.03:321][842]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.11.27-22.12.03:321][842]LogLoad: Took 0.040553 seconds to LoadMap(/Game/Levels/UEDPIE_0_GameComplete)
+[2024.11.27-22.12.03:321][842]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/UEDPIE_0_GameComplete
+[2024.11.27-22.12.14:294][158]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/TutorialCourseLevel"
+[2024.11.27-22.12.14:294][158]LogNet: Browse: /Game/Levels/TutorialCourseLevel
+[2024.11.27-22.12.14:294][158]LogLoad: LoadMap: /Game/Levels/TutorialCourseLevel
+[2024.11.27-22.12.14:294][158]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameComplete
+[2024.11.27-22.12.14:295][158]LogWorld: UWorld::CleanupWorld for GameComplete, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.12.14:295][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.12.14:295][158]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-22.12.14:295][158]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-22.12.14:343][158]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-22.12.14:345][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.27-22.12.14:358][158]LogAudio: Display: Audio Device (ID: 47) registered with world 'TutorialCourseLevel'.
+[2024.11.27-22.12.14:358][158]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-22.12.14:359][158]LogWorldPartition: ULevel::OnLevelLoaded(TutorialCourseLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.27-22.12.14:359][158]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.27-22.12.14:359][158]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.11.27-22.12.14:359][158]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.27-22.12.14:360][158]LogWorldPartition: Display: GenerateStreaming for 'TutorialCourseLevel' started...
+[2024.11.27-22.12.14:361][158]LogStreaming: Display: FlushAsyncLoading(46): 15 QueuedPackages, 0 AsyncPackages
+[2024.11.27-22.12.14:373][158]LogWorldPartition: Display: GenerateStreaming for 'TutorialCourseLevel' took 13.121 ms (total: 58.390 ms)
+[2024.11.27-22.12.14:373][158]LogContentBundle: [TutorialCourseLevel(Standalone)] Creating new container.
+[2024.11.27-22.12.14:373][158]LogWorldPartition: Display: WorldPartition initialize took 14.433 ms (total: 69.368 ms)
+[2024.11.27-22.12.14:373][158]LogPlayLevel: PIE: World Init took: (0.015102s)
+[2024.11.27-22.12.14:373][158]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.27-22.12.14:375][158]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel up for play (max tick rate 0) at 2024.11.27-15.12.14
+[2024.11.27-22.12.14:375][158]LogWorld: Bringing up level for play took: 0.001385
+[2024.11.27-22.12.14:375][158]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.11.27-22.12.14:375][158]LogTemp: Error: Failed to setup port COM6. Error: 00000006
+[2024.11.27-22.12.14:375][158]LogBlueprintUserMessages: [InputControl_C_UAID_2CF05D8D5BC8963002_2118746590] Port is NOT CONNECTED!!!
+[2024.11.27-22.12.14:375][158]LogLoad: Took 0.080945 seconds to LoadMap(/Game/Levels/TutorialCourseLevel)
+[2024.11.27-22.12.14:375][158]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/TutorialCourseLevel
+[2024.11.27-22.13.07:649][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-22.13.07:649][544]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TutorialCourseLevel
+[2024.11.27-22.13.07:649][544]LogScript: Warning: Accessed None trying to read property MySerialPort
+	InputControl_C /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel:PersistentLevel.InputControl_C_UAID_2CF05D8D5BC8963002_2118746590
+	Function /Game/InputControl.InputControl_C:ExecuteUbergraph_InputControl:06CB
+[2024.11.27-22.13.07:649][544]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MySerialPort". Node:  Serial Print Line Graph:  EventGraph Function:  Execute Ubergraph Input Control Blueprint:  InputControl
+[2024.11.27-22.13.07:649][544]LogScript: Warning: Accessed None trying to read property MySerialPort
+	InputControl_C /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel:PersistentLevel.InputControl_C_UAID_2CF05D8D5BC8963002_2118746590
+	Function /Game/InputControl.InputControl_C:ExecuteUbergraph_InputControl:0729
+[2024.11.27-22.13.07:649][544]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MySerialPort". Node:  Close Serial Port Graph:  EventGraph Function:  Execute Ubergraph Input Control Blueprint:  InputControl
+[2024.11.27-22.13.07:649][544]LogWorld: UWorld::CleanupWorld for TutorialCourseLevel, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.13.07:649][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.13.07:649][544]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel
+[2024.11.27-22.13.07:649][544]LogContentBundle: [TutorialCourseLevel(Standalone)] Deleting container.
+[2024.11.27-22.13.07:649][544]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-22.13.07:649][544]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-22.13.07:652][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.27-22.13.07:656][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.13.07:664][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-22.13.07:664][544]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2024.11.27-22.13.07:665][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.11.27-22.13.07:666][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.11.27-22.13.07:670][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.27-22.13.07:781][545]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2024.11.27-22.13.09:424][715]LogSlate: Window 'Message Log' being destroyed
+[2024.11.27-22.13.09:445][715]LogSlate: Window 'Message Log' being destroyed
+[2024.11.27-22.15.59:826][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-22.15.59:851][903]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WB_MinigameComplete] ([2] browsable assets)...
+[2024.11.27-22.15.59:852][903]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete]
+[2024.11.27-22.15.59:852][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WB_MinigameComplete]
+[2024.11.27-22.15.59:852][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MinigameComplete" FILE="D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset" SILENT=true
+[2024.11.27-22.16.00:182][903]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MinigameComplete
+[2024.11.27-22.16.00:184][903]LogSavePackage: Moving 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Saved/WB_MinigameComplete1B0966214780409B74B43BA0EA370D33.tmp' to 'D:/Projects/Unreal/AccessibleMultiplayer/ArduinoLink/Content/Widgets/WB_MinigameComplete.uasset'
+[2024.11.27-22.16.00:195][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 369.672 ms (total: 30.9 sec)
+[2024.11.27-22.16.00:220][903]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.27-22.16.00:220][903]LogContentValidation: Enabled validators:
+[2024.11.27-22.16.00:220][903]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.27-22.16.00:220][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.27-22.16.00:220][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.27-22.16.00:220][903]LogContentValidation: Display: Validating asset /Game/Widgets/WB_MinigameComplete.WB_MinigameComplete
+[2024.11.27-22.16.00:221][903]AssetCheck: /Game/Widgets/WB_MinigameComplete Validating asset
+[2024.11.27-22.16.00:574][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-22.16.21:294][399]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.27-22.16.21:318][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.27-22.16.21:354][399]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.16.21:355][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001407s)
+[2024.11.27-22.16.21:355][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001433s)
+[2024.11.27-22.16.21:366][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.27-22.16.21:371][399]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-22.16.21:372][399]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2024.11.27-22.16.21:384][399]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2024.11.27-22.16.21:384][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.27-22.16.21:384][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.27-22.16.21:384][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.27-22.16.21:384][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.27-22.16.21:384][399]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.27-22.16.21:384][399]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.27-22.16.21:384][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.27-22.16.21:384][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.27-22.16.21:384][399]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.27-22.16.21:384][399]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.27-22.16.21:384][399]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.27-22.16.21:385][399]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.27-22.16.21:411][399]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.11.27-22.16.21:411][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.27-22.16.21:411][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.27-22.16.21:411][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.27-22.16.21:411][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2024.11.27-22.16.21:411][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2024.11.27-22.16.21:413][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2024.11.27-22.16.21:413][399]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2024.11.27-22.16.21:413][399]LogInit: FAudioDevice initialized with ID 48.
+[2024.11.27-22.16.21:413][399]LogAudio: Display: Audio Device (ID: 48) registered with world 'Labyrinth'.
+[2024.11.27-22.16.21:413][399]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2024.11.27-22.16.21:415][399]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-22.16.21:416][399]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-15.16.21
+[2024.11.27-22.16.21:416][399]LogWorld: Bringing up level for play took: 0.000553
+[2024.11.27-22.16.21:417][399]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2024.11.27-22.16.21:429][399]PIE: Server logged in
+[2024.11.27-22.16.21:430][399]PIE: Play in editor total start time 0.117 seconds.
+[2024.11.27-22.16.50:559][884]LogBlueprintUserMessages: [GI_Marble_C_46] Labyrinth
+[2024.11.27-22.16.50:565][885]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Minigames/Labyrinth"
+[2024.11.27-22.16.50:565][885]LogNet: Browse: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-22.16.50:565][885]LogLoad: LoadMap: /Game/Levels/Minigames/Labyrinth
+[2024.11.27-22.16.50:565][885]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.16.50:567][885]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.16.50:567][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.16.50:567][885]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-22.16.50:567][885]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-22.16.50:604][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-22.16.50:606][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.27-22.16.50:608][885]LogPlayLevel: Creating play world package: /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.16.50:609][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001228s)
+[2024.11.27-22.16.50:609][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Minigames/Labyrinth.Labyrinth to /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth (0.001268s)
+[2024.11.27-22.16.50:609][885]LogAudio: Display: Audio Device (ID: 48) registered with world 'Labyrinth'.
+[2024.11.27-22.16.50:609][885]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-22.16.50:610][885]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2024.11.27-22.16.50:610][885]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-22.16.50:611][885]LogWorld: Bringing World /Game/Levels/Minigames/UEDPIE_0_Labyrinth.Labyrinth up for play (max tick rate 0) at 2024.11.27-15.16.50
+[2024.11.27-22.16.50:611][885]LogWorld: Bringing up level for play took: 0.000463
+[2024.11.27-22.16.50:612][885]LogLoad: Took 0.046284 seconds to LoadMap(/Game/Levels/Minigames/UEDPIE_0_Labyrinth)
+[2024.11.27-22.16.50:612][885]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.17.17:881][156]LogBlueprintUserMessages: [GI_Marble_C_46] Player 1 Wins!
+[2024.11.27-22.17.17:888][157]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/GameComplete"
+[2024.11.27-22.17.17:888][157]LogNet: Browse: /Game/Levels/GameComplete
+[2024.11.27-22.17.17:888][157]LogLoad: LoadMap: /Game/Levels/GameComplete
+[2024.11.27-22.17.17:888][157]LogWorld: BeginTearingDown for /Game/Levels/Minigames/UEDPIE_0_Labyrinth
+[2024.11.27-22.17.17:889][157]LogWorld: UWorld::CleanupWorld for Labyrinth, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.17.17:889][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.17.17:889][157]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-22.17.17:889][157]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-22.17.17:934][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-22.17.17:936][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.11.27-22.17.17:939][157]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameComplete
+[2024.11.27-22.17.17:940][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001043s)
+[2024.11.27-22.17.17:940][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameComplete.GameComplete to /Game/Levels/UEDPIE_0_GameComplete.GameComplete (0.001081s)
+[2024.11.27-22.17.17:940][157]LogAudio: Display: Audio Device (ID: 48) registered with world 'GameComplete'.
+[2024.11.27-22.17.17:940][157]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-22.17.17:941][157]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2024.11.27-22.17.17:941][157]LogLoad: Game class is 'SphereCourseGamemode_C'
+[2024.11.27-22.17.17:941][157]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameComplete.GameComplete up for play (max tick rate 0) at 2024.11.27-15.17.17
+[2024.11.27-22.17.17:941][157]LogWorld: Bringing up level for play took: 0.000381
+[2024.11.27-22.17.17:942][157]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.11.27-22.17.17:942][157]LogLoad: Took 0.054593 seconds to LoadMap(/Game/Levels/UEDPIE_0_GameComplete)
+[2024.11.27-22.17.17:942][157]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/UEDPIE_0_GameComplete
+[2024.11.27-22.17.28:899][471]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/TutorialCourseLevel"
+[2024.11.27-22.17.28:899][471]LogNet: Browse: /Game/Levels/TutorialCourseLevel
+[2024.11.27-22.17.28:899][471]LogLoad: LoadMap: /Game/Levels/TutorialCourseLevel
+[2024.11.27-22.17.28:899][471]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameComplete
+[2024.11.27-22.17.28:900][471]LogWorld: UWorld::CleanupWorld for GameComplete, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.17.28:900][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.17.28:900][471]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-22.17.28:900][471]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-22.17.28:934][471]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.27-22.17.28:936][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.27-22.17.28:950][471]LogAudio: Display: Audio Device (ID: 48) registered with world 'TutorialCourseLevel'.
+[2024.11.27-22.17.28:950][471]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.27-22.17.28:950][471]LogWorldPartition: ULevel::OnLevelLoaded(TutorialCourseLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.27-22.17.28:950][471]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.27-22.17.28:950][471]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.11.27-22.17.28:950][471]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.27-22.17.28:951][471]LogWorldPartition: Display: GenerateStreaming for 'TutorialCourseLevel' started...
+[2024.11.27-22.17.28:953][471]LogStreaming: Display: FlushAsyncLoading(61): 15 QueuedPackages, 0 AsyncPackages
+[2024.11.27-22.17.28:964][471]LogWorldPartition: Display: GenerateStreaming for 'TutorialCourseLevel' took 13.288 ms (total: 71.678 ms)
+[2024.11.27-22.17.28:965][471]LogContentBundle: [TutorialCourseLevel(Standalone)] Creating new container.
+[2024.11.27-22.17.28:965][471]LogWorldPartition: Display: WorldPartition initialize took 14.593 ms (total: 83.962 ms)
+[2024.11.27-22.17.28:965][471]LogPlayLevel: PIE: World Init took: (0.015275s)
+[2024.11.27-22.17.28:965][471]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.27-22.17.28:967][471]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel up for play (max tick rate 0) at 2024.11.27-15.17.28
+[2024.11.27-22.17.28:967][471]LogWorld: Bringing up level for play took: 0.001391
+[2024.11.27-22.17.28:967][471]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.11.27-22.17.28:967][471]LogTemp: Error: Failed to setup port COM6. Error: 00000006
+[2024.11.27-22.17.28:967][471]LogBlueprintUserMessages: [InputControl_C_UAID_2CF05D8D5BC8963002_2118746590] Port is NOT CONNECTED!!!
+[2024.11.27-22.17.28:967][471]LogLoad: Took 0.067996 seconds to LoadMap(/Game/Levels/TutorialCourseLevel)
+[2024.11.27-22.17.28:967][471]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/TutorialCourseLevel
+[2024.11.27-22.17.37:276][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-22.17.37:276][461]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TutorialCourseLevel
+[2024.11.27-22.17.37:276][461]LogScript: Warning: Accessed None trying to read property MySerialPort
+	InputControl_C /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel:PersistentLevel.InputControl_C_UAID_2CF05D8D5BC8963002_2118746590
+	Function /Game/InputControl.InputControl_C:ExecuteUbergraph_InputControl:06CB
+[2024.11.27-22.17.37:276][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MySerialPort". Node:  Serial Print Line Graph:  EventGraph Function:  Execute Ubergraph Input Control Blueprint:  InputControl
+[2024.11.27-22.17.37:276][461]LogScript: Warning: Accessed None trying to read property MySerialPort
+	InputControl_C /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel:PersistentLevel.InputControl_C_UAID_2CF05D8D5BC8963002_2118746590
+	Function /Game/InputControl.InputControl_C:ExecuteUbergraph_InputControl:0729
+[2024.11.27-22.17.37:276][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MySerialPort". Node:  Close Serial Port Graph:  EventGraph Function:  Execute Ubergraph Input Control Blueprint:  InputControl
+[2024.11.27-22.17.37:276][461]LogWorld: UWorld::CleanupWorld for TutorialCourseLevel, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-22.17.37:277][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.17.37:277][461]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_TutorialCourseLevel.TutorialCourseLevel
+[2024.11.27-22.17.37:277][461]LogContentBundle: [TutorialCourseLevel(Standalone)] Deleting container.
+[2024.11.27-22.17.37:277][461]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.27-22.17.37:277][461]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.27-22.17.37:279][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.27-22.17.37:283][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-22.17.37:293][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.27-22.17.37:293][461]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2024.11.27-22.17.37:294][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.11.27-22.17.37:295][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.11.27-22.17.37:299][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.11.27-22.17.37:411][462]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2024.11.27-22.17.38:930][620]LogSlate: Window 'Message Log' being destroyed
+[2024.11.27-22.17.38:953][620]LogSlate: Window 'Message Log' being destroyed
