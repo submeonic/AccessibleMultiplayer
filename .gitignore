@@ -72,9 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# Exclude Saved and Intermediate folders
-**/Saved/
-**/Intermediate/
-/ArduinoLink/Saved
-ArduinoLink/Saved/Telemetry/Telemetry.json
